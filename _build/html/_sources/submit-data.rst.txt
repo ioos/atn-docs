@@ -1,5 +1,8 @@
 .. _submit-data:
 
+.. image:: images/IOOS_Emblem_Tertiary_A_RGB.jpg
+	:height: 60px
+
 How to Submit Data to the IOOS ATN
 ==================================
 
@@ -20,3 +23,5 @@ Research Workspace Tutorials
 #. `Navigating the Workspace <https://researchworkspace.com/help/NavigatingTheWorkspaceTutorial.html>`_
 #. `Working with Data Files <https://researchworkspace.com/help/WorkingWithFilesTutorial.html>`_
 #. `Using the Metadata Editor <https://researchworkspace.com/help/MetadataEditorTutorial.html>`_
+
+
