@@ -18,5 +18,5 @@ Research Workspace Tutorials
 
 #. `Creating & Accessing an Account <https://researchworkspace.com/help/CreatingAccountTutorial.html>`_
 #. `Navigating the Workspace <https://researchworkspace.com/help/NavigatingTheWorkspaceTutorial.html>`_
-#. `Working with Data Files <https://researchworkspace.com/help/WorkingWithDataFilesTutorial.html>`_
+#. `Working with Data Files <https://researchworkspace.com/help/WorkingWithFilesTutorial.html>`_
 #. `Using the Metadata Editor <https://researchworkspace.com/help/MetadataEditorTutorial.html>`_
