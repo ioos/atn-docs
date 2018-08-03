@@ -19,5 +19,3 @@ Table of Contents
 
    submit-data
    contact-us
-
-

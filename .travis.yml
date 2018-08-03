@@ -1,0 +1,15 @@
+sudo: false
+
+language: python
+python:
+  - 3.6
+
+env:
+  global:
+    - secure: "Yj+PU4lAC7HCgOqB0lNmQehaBkSBFT8g/uihuJjhYZp3E1xt3mKJMlQidpnUyizTcjDSfdM2/60x2K5vILVblVtWTSxZXSCgsW2uDKOwHfpEtM1SP5R9AKWmDFpQ04G6Y0lYnv0D/r4ou9WVePyYPvUjvQNEeuKlSJ+r64GvV/vtX/7xqAS80lthF8L8VgarHmW8Q1U1HKjIKMsFi6YUHXYeD3CQHUPwJfkLUySVLNKMptyjTURpj8Oza3y6qjvFKe03udVxAU17dLlmTL8tSpH0rJQlQfiMyPngaRKP0fzw+s4H9kl1g3Hz0Y6owl7hZ9FMeHmNVmybVL6Guf0fJdwolRjgfyoeKu3mt5cwONH6HT3RMOC+qmEYbjJEakDMjdgUP2YEVTzuykDW2BqsTJzd7t+BSYHzTRfjLddValAmMfnVVOREkOmFspxoeysqLONpkDfsEe0STH5t70EGGMhI9kV4R48jz5alAnAYeQcnLHaClCQZFIZFUuoGypRLo1glQRCHfgzsnVZoKb3OEeUc6RDwXrVGLH5+vYakfqBB939FGQLhs4IEuJQK5qIrvlX5uSD+KAMDkjkg3BsAWUsNfELaXUD4KV9WmVYV/kGI1W/wLcPvrLj9xpQTMF3HtHi32qF/y3z9YoJ4CiW9QY0Wufllny4CBKk5aBsop0Q="
+
+script:
+  - set -e
+  - pip install -r requirements.txt
+  - make html
+  - doctr deploy . --built-docs _build/html
