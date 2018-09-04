@@ -17,3 +17,12 @@ Start the doc server
 ```
 make livehtml
 ```
+
+
+## Develop with the ATN Site
+
+```
+conda install -c conda-forge watchdog
+export ATN_SITE=[ /path/to/your/atn/site ]/src/help/
+./copy_to_site.sh
+```
