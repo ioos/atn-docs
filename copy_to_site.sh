@@ -5,4 +5,4 @@ watchmedo shell-command \
           --patterns="*.py;*.rst" \
           --ignore-pattern='_build/*' \
           --recursive \
-          --command='cp -r _build/json/* ${ATN_SITE}'
+          --command='make json && cp -r _build/json/* ${ATN_SITE}'
