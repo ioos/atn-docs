@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Animal Telemetry Network data portal documentation build configuration file, created by
+# Animal Telemetry Network documentation build configuration file, created by
 # sphinx-quickstart on Fri Jul  6 12:55:50 2018.
 #
 # This file is execfile()d with the current directory set to its
@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'IOOS Animal Telemetry Network data portal'
+project = 'IOOS Animal Telemetry Network'
 copyright = '2018, Axiom Data Science'
 author = 'Axiom Data Science'
 
@@ -105,7 +105,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'AnimalTelemetryNetworkdataportaldoc'
+htmlhelp_basename = 'AnimalTelemetryNetwork'
 
 
 # -- Options for LaTeX output ---------------------------------------------
