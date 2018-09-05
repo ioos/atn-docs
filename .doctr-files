@@ -1,5 +1,6 @@
 ./_images/IOOS_Emblem_Tertiary_A_RGB.jpg
 ./_sources/contact-us.rst.txt
+./_sources/getting-data.rst.txt
 ./_sources/index.rst.txt
 ./_sources/submit-data.rst.txt
 ./_static/ajax-loader.gif
@@ -30,6 +31,7 @@
 ./_static/websupport.js
 ./contact-us.html
 ./genindex.html
+./getting-data.html
 ./index.html
 ./objects.inv
 ./search.html

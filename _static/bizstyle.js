@@ -36,6 +36,6 @@ $(window).resize(function(){
         $("li.nav-item-0 a").text("Top");
     }
     else {
-        $("li.nav-item-0 a").text("IOOS Animal Telemetry Network data portal  documentation");
+        $("li.nav-item-0 a").text("IOOS Animal Telemetry Network  documentation");
     }
 });
