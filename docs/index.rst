@@ -14,6 +14,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 1
 
+   argos
    getting-data
    submit-data
    contact-us
