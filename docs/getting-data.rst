@@ -25,7 +25,7 @@ Key Terms
 Data Levels
 ^^^^^^^^^^^
 
-- ``RA`` or ``Raw`` - This format is dependent on the tagger, vendor, animal, sensors and the process in which the data is transmitted from the animal. This data is only available for download through the `Research Workspace <https://researchworkspace.com/>`_ by the individual tagging project team. If you would like access to a project's ``R`` data please contact them directly as them can manage the permissions of their data access themselves. You can also email atndata@ioos.us for additional help.
+- ``RA`` or ``Raw`` - This format is dependent on the tagger, vendor, animal, sensors and the process in which the data is transmitted from the animal. This data is only available for download through the `Research Workspace <https://researchworkspace.com/>`_ by the individual tagging project team. If you would like access to a project's ``RA`` data please contact them directly as them can manage the permissions of their data access themselves. You can also email atndata@ioos.us for additional help.
 
 - ``LR`` or ``LocationsRaw`` - This is a netCDF file adhering to the "ATN Locations File Specification". Please be aware that a ``LR`` file contains both location data and quality flags that define the level of certaintly of the location. There is a single ``LR`` file for each deployment. This data is available through the ATN `ERDDAP <http://atn.ioos.us/erddap/info/index.html>`_ and `THREDDS <http://atn.ioos.us/thredds/>`_ servers. Look for the ``LR`` key when browsing for data.
 
