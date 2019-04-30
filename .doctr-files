@@ -2,7 +2,6 @@
 ./_images/IOOS_Emblem_Tertiary_A_RGB.jpg
 ./_sources/argos.rst.txt
 ./_sources/contact-us.rst.txt
-./_sources/getting-data.rst.txt
 ./_sources/index.rst.txt
 ./_sources/submit-data.rst.txt
 ./_static/background_b01.png
@@ -26,7 +25,6 @@
 ./argos.html
 ./contact-us.html
 ./genindex.html
-./getting-data.html
 ./index.html
 ./objects.inv
 ./search.html

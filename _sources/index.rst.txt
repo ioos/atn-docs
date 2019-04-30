@@ -15,6 +15,5 @@ Table of Contents
    :maxdepth: 1
 
    argos
-   getting-data
    submit-data
    contact-us
