@@ -4,8 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
     <title>How to Download Data &#8212; IOOS Animal Telemetry Network  documentation</title>
     <link rel="stylesheet" href="_static/bizstyle.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -14,7 +13,7 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="_static/language_data.js"></script>
     <script type="text/javascript" src="_static/bizstyle.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -67,8 +66,6 @@
     <form class="search" action="search.html" method="get">
       <input type="text" name="q" />
       <input type="submit" value="Go" />
-      <input type="hidden" name="check_keywords" value="yes" />
-      <input type="hidden" name="area" value="default" />
     </form>
     </div>
 </div>
@@ -85,25 +82,25 @@
 <span id="getting-data"></span><h1>How to Download Data<a class="headerlink" href="#how-to-download-data" title="Permalink to this headline">¶</a></h1>
 <p>The IOOS ATN DAC provides data in a variety of formats through a variety of standardized services.</p>
 <ul class="simple">
-<li><a class="reference external" href="http://atn.ioos.us/erddap/info/index.html">ERDDAP</a></li>
-<li><a class="reference external" href="http://atn.ioos.us/thredds/">THREDDS</a></li>
+<li><p><a class="reference external" href="http://atn.ioos.us/erddap/info/index.html">ERDDAP</a></p></li>
+<li><p><a class="reference external" href="http://atn.ioos.us/thredds/">THREDDS</a></p></li>
 </ul>
 <div class="section" id="satellite-data">
 <h2>Satellite Data<a class="headerlink" href="#satellite-data" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="key-terms">
 <h3>Key Terms<a class="headerlink" href="#key-terms" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li><code class="docutils literal notranslate"><span class="pre">deployment_id</span></code> - The unique identifier for a tagging event. This is the deployment of a specific tag on a specific animal on a certain date. Each deployment contains metadata such as tag model, tag serial number, animal sex, animal length, animal age classification, and deployment time and location.</li>
-<li><code class="docutils literal notranslate"><span class="pre">ptt</span></code> or <code class="docutils literal notranslate"><span class="pre">Platform</span> <span class="pre">Transmitter</span> <span class="pre">Terminals</span></code> - A unique identifier used by the Argos satellite system. This is not necessarily unique in the ATN, over the course of history, or into the future. This is only available on deployments using Argos.</li>
+<li><p><code class="docutils literal notranslate"><span class="pre">deployment_id</span></code> - The unique identifier for a tagging event. This is the deployment of a specific tag on a specific animal on a certain date. Each deployment contains metadata such as tag model, tag serial number, animal sex, animal length, animal age classification, and deployment time and location.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">ptt</span></code> or <code class="docutils literal notranslate"><span class="pre">Platform</span> <span class="pre">Transmitter</span> <span class="pre">Terminals</span></code> - A unique identifier used by the Argos satellite system. This is not necessarily unique in the ATN, over the course of history, or into the future. This is only available on deployments using Argos.</p></li>
 </ul>
 </div>
 <div class="section" id="data-levels">
 <span id="id1"></span><h3>Data Levels<a class="headerlink" href="#data-levels" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li><code class="docutils literal notranslate"><span class="pre">RA</span></code> or <code class="docutils literal notranslate"><span class="pre">Raw</span></code> - This format is dependent on the tagger, vendor, animal, sensors and the process in which the data is transmitted from the animal. This data is only available for download through the <a class="reference external" href="https://researchworkspace.com/">Research Workspace</a> by the individual tagging project team. If you would like access to a project’s <code class="docutils literal notranslate"><span class="pre">RA</span></code> data please contact them directly as them can manage the permissions of their data access themselves. You can also email <a class="reference external" href="mailto:atndata&#37;&#52;&#48;ioos&#46;us">atndata<span>&#64;</span>ioos<span>&#46;</span>us</a> for additional help.</li>
-<li><code class="docutils literal notranslate"><span class="pre">LR</span></code> or <code class="docutils literal notranslate"><span class="pre">LocationsRaw</span></code> - This is a netCDF file adhering to the “ATN Locations File Specification”. Please be aware that a <code class="docutils literal notranslate"><span class="pre">LR</span></code> file contains both location data and quality flags that define the level of certaintly of the location. There is a single <code class="docutils literal notranslate"><span class="pre">LR</span></code> file for each deployment. This data is available through the ATN <a class="reference external" href="http://atn.ioos.us/erddap/info/index.html">ERDDAP</a> and <a class="reference external" href="http://atn.ioos.us/thredds/">THREDDS</a> servers. Look for the <code class="docutils literal notranslate"><span class="pre">LR</span></code> key when browsing for data.</li>
-<li><code class="docutils literal notranslate"><span class="pre">LC</span></code> or <code class="docutils literal notranslate"><span class="pre">LocationsCleaned</span></code> - This is a netCDF file adhering to the “ATN Locations File Specification”. This file is a subset of <code class="docutils literal notranslate"><span class="pre">LR</span></code> that omits any locations that failed quality control. There is a single <code class="docutils literal notranslate"><span class="pre">LC</span></code> file for each deployment. This data is available through the ATN <a class="reference external" href="http://atn.ioos.us/erddap/info/index.html">ERDDAP</a> and <a class="reference external" href="http://atn.ioos.us/thredds/">THREDDS</a> servers. Look for the <code class="docutils literal notranslate"><span class="pre">LC</span></code> key when browsing for data.</li>
-<li><code class="docutils literal notranslate"><span class="pre">PR</span></code> or <code class="docutils literal notranslate"><span class="pre">Profiles</span></code> - This is a netCDF file adhering to the “ATN Profile File Specification”. There is a single <code class="docutils literal notranslate"><span class="pre">PR</span></code> file for each deployment that contains depth/light data. In cases where the depth/light data was recieved without associated locations, the location in this file is extracted from <code class="docutils literal notranslate"><span class="pre">LR</span></code> using the nearest time. This data is available through the ATN <a class="reference external" href="http://atn.ioos.us/erddap/info/index.html">ERDDAP</a> and <a class="reference external" href="http://atn.ioos.us/thredds/">THREDDS</a> servers. Look for the <code class="docutils literal notranslate"><span class="pre">PR</span></code> key when browsing for data.</li>
+<li><p><code class="docutils literal notranslate"><span class="pre">RA</span></code> or <code class="docutils literal notranslate"><span class="pre">Raw</span></code> - This format is dependent on the tagger, vendor, animal, sensors and the process in which the data is transmitted from the animal. This data is only available for download through the <a class="reference external" href="https://researchworkspace.com/">Research Workspace</a> by the individual tagging project team. If you would like access to a project’s <code class="docutils literal notranslate"><span class="pre">RA</span></code> data please contact them directly as them can manage the permissions of their data access themselves. You can also email <a class="reference external" href="mailto:atndata&#37;&#52;&#48;ioos&#46;us">atndata<span>&#64;</span>ioos<span>&#46;</span>us</a> for additional help.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">LR</span></code> or <code class="docutils literal notranslate"><span class="pre">LocationsRaw</span></code> - This is a netCDF file adhering to the “ATN Locations File Specification”. Please be aware that a <code class="docutils literal notranslate"><span class="pre">LR</span></code> file contains both location data and quality flags that define the level of certaintly of the location. There is a single <code class="docutils literal notranslate"><span class="pre">LR</span></code> file for each deployment. This data is available through the ATN <a class="reference external" href="http://atn.ioos.us/erddap/info/index.html">ERDDAP</a> and <a class="reference external" href="http://atn.ioos.us/thredds/">THREDDS</a> servers. Look for the <code class="docutils literal notranslate"><span class="pre">LR</span></code> key when browsing for data.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">LC</span></code> or <code class="docutils literal notranslate"><span class="pre">LocationsCleaned</span></code> - This is a netCDF file adhering to the “ATN Locations File Specification”. This file is a subset of <code class="docutils literal notranslate"><span class="pre">LR</span></code> that omits any locations that failed quality control. There is a single <code class="docutils literal notranslate"><span class="pre">LC</span></code> file for each deployment. This data is available through the ATN <a class="reference external" href="http://atn.ioos.us/erddap/info/index.html">ERDDAP</a> and <a class="reference external" href="http://atn.ioos.us/thredds/">THREDDS</a> servers. Look for the <code class="docutils literal notranslate"><span class="pre">LC</span></code> key when browsing for data.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">PR</span></code> or <code class="docutils literal notranslate"><span class="pre">Profiles</span></code> - This is a netCDF file adhering to the “ATN Profile File Specification”. There is a single <code class="docutils literal notranslate"><span class="pre">PR</span></code> file for each deployment that contains depth/light data. In cases where the depth/light data was recieved without associated locations, the location in this file is extracted from <code class="docutils literal notranslate"><span class="pre">LR</span></code> using the nearest time. This data is available through the ATN <a class="reference external" href="http://atn.ioos.us/erddap/info/index.html">ERDDAP</a> and <a class="reference external" href="http://atn.ioos.us/thredds/">THREDDS</a> servers. Look for the <code class="docutils literal notranslate"><span class="pre">PR</span></code> key when browsing for data.</p></li>
 </ul>
 </div>
 </div>
@@ -136,7 +133,7 @@
     </div>
     <div class="footer" role="contentinfo">
         &#169; Copyright 2018, Axiom Data Science.
-      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.8.1.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 2.0.1.
     </div>
   </body>
 </html>
