@@ -48,7 +48,7 @@ If your data aren't available from a satellite tag vendor, you can still submit 
 #. Work with the ATN Data Coordinator to publish your data files
 
 .. note::
-	Uploading data files to the Workspace will allow you to publish your data to the ATN DAC Data Portal project catalog, as well as archive your dataset with `DataONE <https://dataone.org/>`_. Depending on the format of your data, it may also be possible to display them in the ATN DAC Data Portal map. Contact the ATN Data Coordinator for more information.
+	Uploading data files to the Workspace will allow you to publish your data to the ATN DAC Data Portal project catalog, as well as archive your dataset with a national data center, such as `DataONE <https://dataone.org/>`_ or `NCEI <https://www.ncei.noaa.gov/>`_. Depending on the format of your data, it may also be possible to display them in the ATN DAC Data Portal map. Contact the ATN Data Coordinator for more information.
 
 For assistance submitting data to ATN DAC through the Research Workspace, please visit the Workspace's `help docs <https://researchworkspace.com/help/>`_, consult the tutorials listed below, or :ref:`contact-us`.
 
