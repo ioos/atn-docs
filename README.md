@@ -1,4 +1,7 @@
 # atn-docs
+
+[![Build Status](https://travis-ci.org/ioos/atn-docs.svg?branch=master)](https://travis-ci.org/ioos/atn-docs)
+
 Documentation for Axiom's Animal Telemetry Network data assembly center and portal.
 
 
