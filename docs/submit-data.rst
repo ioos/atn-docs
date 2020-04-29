@@ -17,7 +17,7 @@ If your telemetry data can be made available to the ATN DAC through a satellite 
 Step 1: Register your tags
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. Visit the ATN DAC Registration page here: ``https://dacregistration.atn.ioos.us/``
+#. Visit the ATN DAC Registration page here: `dacregistration.atn.ioos.us <https://dacregistration.atn.ioos.us/>`__
 #. Sign up for an account (or log in if you already have one)
 #. Click ``New Project Metadata``
 #. Using the form, enter your project-level metadata (i.e., Title, Abstract, Purpose, and Contact info)
