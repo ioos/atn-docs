@@ -14,10 +14,10 @@ help:
 
 livehtml:
 	sphinx-autobuild -b html --port 8001 \
-		-i ".git/*" \
-		-i "*.swp" \
-		-i "*.txt" \
-		-i "*~" \
+		--ignore ".git/*" \
+		--ignore "*.swp" \
+		--ignore "*.txt" \
+		--ignore "*~" \
 		$(SPHINXOPTS) "$(SOURCEDIR)" $(BUILDDIR)/html
 
 .PHONY: help Makefile
