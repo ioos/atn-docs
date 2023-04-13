@@ -4,6 +4,9 @@
 
 Documentation for Axiom's Animal Telemetry Network data assembly center and portal.
 
+The ATN website (https://atn.ioos.us/) pulls in this ATN documentation (https://github.com/ioos/atn-docs) at build time and makes it available at the `/help` endpoint (https://atn.ioos.us/help/).
+
+To deploy changes to either, the website needs to be re-deployed! The easiest way to do that is to push a change to the `master` branch of `atn-dac`.
 
 ## Developing
 
