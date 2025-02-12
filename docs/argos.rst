@@ -1,43 +1,53 @@
 .. _argos:
 
-Covering ARGOS Fees through the ATN
+U.S. ATN Argos Fees Program
 ===================================
 
+**UPDATE: The U.S. ATN Argos Fees Program actively accepted applications between 2018 and 2024. In 2025, its final year, the Program continued to provide support for over 30 projects with over 300 tags.**
 
-Background
-----------
-
-A top priority of the U.S. Animal Telemetry Network (ATN) is to facilitate and support baseline observations of marine animal movements. The satellite data collection and location services of `Argos <https://www.argos-system.org/argos/who-we-are/international-cooperation/>`_ is an essential element of the U.S. national animal telemetry observations infrastructure. Consequently, providing sustained, robust Argos service to  U.S. marine animal tracking researchers will help to insure the stability, continuity, and sustainability of high priority, long-term satellite tagging efforts.
-
-Therefore, ATN has implemented a multi-year program funded by the Office of Naval Research which will pay for the cost of Argos satellite tracking services for marine animal telemetry researchers who agree to submit their data and metadata to ATN's Data Assembly Center (DAC). The DAC, supported by `Axiom Data Science <https://www.axiomdatascience.com/>`_, provides a secure data access and analysis space for researchers, while offering public visualizations of tracks and data archiving following user-specified embargo periods. More information about ATN's data policy and embargo guidance are available `here <https://cdn.ioos.noaa.gov/media/2022/03/ATN-DAC-Data-Management-Policy-Guidance_v.202201.pdf>`_.
+A top priority of the U.S. Animal Telemetry Network (`ATN <https://ioos.noaa.gov/project/atn/>`_) is to facilitate and support baseline observations of marine animal movements. Argos satellite data collection and location services are an essential element of the U.S. national animal telemetry observations infrastructure. Therefore, in October 2018, ATN implemented a multi-year program funded by the Office of Naval Research (`ONR <https://www.onr.navy.mil/>`_) to cover the cost of Argos satellite tracking services for marine animal telemetry researchers who agreed to submit their data and metadata to ATN's Data Assembly Center (DAC). The DAC, developed by `Axiom Data Science <https://www.axiomdatascience.com/>`_ and hosted by the U.S. Integrated Ocean Observing System (`IOOS <https://ioos.noaa.gov/>`_), provides researchers with secure data access and analysis space while offering public visualizations of animal tracks and data archiving services following user-specified embargo periods. Please review the ATN’s data policy and embargo `guidance <https://cdn.ioos.noaa.gov/media/2022/03/ATN-DAC-Data-Management-Policy-Guidance_v.202201.pdf/>`_ for more information.
 
 
-Who is Eligible
+ATN Argos Fees Program Eligibility
 ---------------
 
-The criteria below are used to determine telemetry researchers' eligibility for having their Argos fees paid through this mechanism. To be eligible, the researcher must:
+The following criteria were used to determine eligibility for Argos fees coverage under the ATN Argos Fees Program. To be eligible, the researcher must:
 
-#.	Be actively engaged in marine animal satellite telemetry using Argos.
-#.	Be a U.S. based or affiliated researcher.
-#.	Complete an application :download:`form </downloads/atn_argos_request_2023.pdf>` and provide ATN with your Argos program information and a list of the Argos ID numbers for which funding is requested.
-#.	Agree to submit tag data and metadata to the ATN DAC for the duration of the project. Data which are capable of being auto-ingested into the DAC and in near real-time, are encouraged to be made available to the DAC in near real-time.
-#.	Agree to visualize their trajectory and/or profile data, along with select metadata  in the ATN data portal, in near real-time, if possible. Requests for delayed display of protected species tracks can be addressed on a case-by-case basis.
-#.	Agree to publicly release these data via the ATN data portal and a long-term repository or permanent archive after data are no longer protected or under embargo as specified within the ATN's data management `policy guidance <https://cdn.ioos.noaa.gov/media/2022/03/ATN-DAC-Data-Management-Policy-Guidance_v.202201.pdf>`_ document.
+#. Be actively engaged in marine animal satellite telemetry using Argos.
+#. Be a U.S. based or affiliated researcher.
+#. Complete an application :download:`form </downloads/atn_argos_request_2023.pdf>` and provide ATN with your Argos program information and a list of the Argos ID numbers for which funding is requested.
+#. Agree to submit tag data and metadata to the ATN DAC for the duration of the project. Data which are capable of being auto-ingested into the DAC and in near real-time are encouraged to be made available to the DAC in near real-time.
+#. Agree to visualize their trajectory and/or profile data, along with select metadata, in the ATN data portal in near real-time, if possible. Requests for delayed display of protected species tracks can be addressed on a case-by-case basis.
+#. Agree to publicly release these data via the ATN data portal and a long-term repository or permanent archive after data are no longer protected or under embargo, as specified within the ATN’s data management `policy guidance <https://cdn.ioos.noaa.gov/media/2022/03/ATN-DAC-Data-Management-Policy-Guidance_v.202201.pdf>`_ document.
 
-Coverage Policies
+
+ATN Argos Fees Program Coverage Policies
 -----------------
-#.	Argos Fees Program applications will be limited to **50 platforms per program per year**. This change will be effective April 1, 2023 for new program applicants. For existing program members, the 50 platform cap will become effective on October 1, 2023. After that date, additional platform IDs above the cap will revert back to the principal investigators original Argos program.
+#.	Argos Fees Program applications were limited to 50 platforms per program per year, effective April 1, 2023, for new program applicants. For existing program members, the 50 platform cap became effective on October 1, 2023. After that date, additional platform IDs above the cap reverted back to the principal investigators original Argos program.
 
 #.	We request that only platforms intended to be deployed within 6 months be registered under new or existing ATN programs.
 
 #.	We encourage principal investigators to recycle or remove inactive or unused platform IDs from their ATN program within 6 months of inactivity.
 
-#.	Argos fees will be covered annually by ATN to the extent that funds are available. In the event that Argos Fees Program funds are exhausted, additional platform costs will revert back to the principal investigator.
+#.	Argos fees were covered annually by ATN to the extent that funds are available. In the event that Argos Fees Program funds are exhausted, additional platform costs will revert back to the principal investigator.
 
-Failure to comply with the above list of eligibility requirements and policies may result in researcher, program, or platform removal from the Argos Fees Program and costs to revert back to the principal investigator.
+Failure to comply with the above list of eligibility requirements and policies may result in the removal of the researcher, program, or platform from the Argos Fees Program and the reversion of costs to the principal investigator.
 
 
-How to Apply
+ATN Argos Fees Program Transition
 ------------
 
-Please download, fill out, and email :download:`the application form </downloads/atn_argos_request_2023.pdf>` to the ATN Coordinator at ATN.NC@noaa.gov, and the ATN Data Coordinator, Dr. Megan McKinzie at mmckinzie@mbari.org.
+Although the Program has greatly helped advance the objectives of ATN and the broader telemetry research community, long-term funding was no longer available to sustain activities. Therefore, starting November 1, 2024, ATN was unable to accept new applications for the Program or cover any fees from new tag IDs. ATN will continue to cover Argos fees for existing Program participants with actively transmitting tags that are in service beyond November 1 and remain committed to doing so as long as funds remain available.
+
+
+ATN Argos Fees Program Success
+------------
+
+his Program has been a huge success in bringing immense value to our researchers by sponsoring over 4,800 tags from over 80 Argos programs, led by 71 PIs from 47 institutions. This Program has been one of our most effective incentives, bringing new users, data, and metadata to the ATN DAC. It has fostered greater collaboration among our community and has helped ensure the stability, continuity, and sustainability of high-priority, long-term satellite tagging efforts across the U.S. and abroad. ATN acknowledges all of the Program participants who have shared their valuable telemetry data, the Office of Naval Research (ONR) for the generous funding, the Woods Hole Group for their invaluable services, Axiom Data Science for support with the DAC,  NOAA National Marine Fisheries Service, Central and Northern California Ocean Observing System (CeNCOOS), and Monterey Bay Aquarium Institute for DAC coordination, and IOOS for its continued support of the ATN.
+
+
+If you have any questions about the ATN Argos Fees Program, please contact us:
+
+Connie Kot, ATN Coordinator, connie.kot@noaa.gov
+
+Dr. Megan McKinzie, ATN Data Manager, mmckinzie@mbari.org
