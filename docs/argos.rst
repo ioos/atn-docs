@@ -22,7 +22,7 @@ The following criteria were used to determine eligibility for Argos fees coverag
 
 
 ATN Argos Fees Program Coverage Policies
------------------
+---------------------------------------------------
 #.	Argos Fees Program applications were limited to 50 platforms per program per year, effective April 1, 2023, for new program applicants. For existing program members, the 50 platform cap became effective on October 1, 2023. After that date, additional platform IDs above the cap reverted back to the principal investigators original Argos program.
 
 #.	We request that only platforms intended to be deployed within 6 months be registered under new or existing ATN programs.
@@ -35,13 +35,13 @@ Failure to comply with the above list of eligibility requirements and policies m
 
 
 ATN Argos Fees Program Transition
-------------
+------------------------------------
 
 Although the Program has greatly helped advance the objectives of ATN and the broader telemetry research community, long-term funding was no longer available to sustain activities. Therefore, starting November 1, 2024, ATN was unable to accept new applications for the Program or cover any fees from new tag IDs. ATN will continue to cover Argos fees for existing Program participants with actively transmitting tags that are in service beyond November 1 and remain committed to doing so as long as funds remain available.
 
 
 ATN Argos Fees Program Success
-------------
+------------------------------------
 
 his Program has been a huge success in bringing immense value to our researchers by sponsoring over 4,800 tags from over 80 Argos programs, led by 71 PIs from 47 institutions. This Program has been one of our most effective incentives, bringing new users, data, and metadata to the ATN DAC. It has fostered greater collaboration among our community and has helped ensure the stability, continuity, and sustainability of high-priority, long-term satellite tagging efforts across the U.S. and abroad. ATN acknowledges all of the Program participants who have shared their valuable telemetry data, the Office of Naval Research (ONR) for the generous funding, the Woods Hole Group for their invaluable services, Axiom Data Science for support with the DAC,  NOAA National Marine Fisheries Service, Central and Northern California Ocean Observing System (CeNCOOS), and Monterey Bay Aquarium Institute for DAC coordination, and IOOS for its continued support of the ATN.
 
@@ -51,3 +51,4 @@ If you have any questions about the ATN Argos Fees Program, please contact us:
 Connie Kot, ATN Coordinator, connie.kot@noaa.gov
 
 Dr. Megan McKinzie, ATN Data Manager, mmckinzie@mbari.org
+
