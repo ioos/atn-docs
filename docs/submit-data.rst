@@ -17,7 +17,7 @@ If your telemetry data can be made available to the ATN DAC through a satellite 
 Step 1: Register your tags
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. Visit the ATN DAC Registration page here: `dacregistration.atn.ioos.us <https://dacregistration.atn.ioos.us/>`__
+#. Visit the ATN DAC Registration page here: `dacregistration.atn.ioos.us <https://dacregistration.atn.ioos.us/accounts/login/?next=/>`__
 #. Sign up for an account (or log in if you already have one)
 #. Click ``New Project Metadata``, select Satellite Project. Using the form, enter your project-level metadata (e.g., title, abstract, purpose, and contact info). Click ``Submit``.
 #. Click ``View``, scroll-down, select ``Add Satellite Deployment``. Using the form, enter the information for a single deployment associated with that project (e.g., PTT, species, deployment start/stop date/time). Click ``Submit``. Repeat. Alternatively,
@@ -42,14 +42,14 @@ Data Submitted Directly to the DAC
 
 If your data aren’t available from a satellite tag vendor, you can still submit to the ATN DAC through the following steps:
 
-#. Visit the ATN DAC’s data management platform, the `Research Workspace <https://researchworkspace.com/>`_
+#. Visit the ATN DAC’s data management platform, the `Research Workspace <https://researchworkspace.com/intro/>`_
 #. Create an account (or log in if you already have one)
 #. Create a new project
 #. Upload your deployment metadata and data files
 #. Work with the ATN DC to publish your data files
 
 .. note::
-    Uploading metadata and data files to the Workspace will allow you to publish your data to the ATN data portal project catalog, as well as archive your dataset with a national data center, such as `DataONE <https://dataone.org/>`_. Depending on the format of your data, it may also be possible to display them in the ATN data portal map interface. Contact the ATN DC for more information.
+    Uploading metadata and data files to the Workspace will allow you to publish your data to the ATN data portal project catalog, as well as archive your dataset with a national data center, such as `DataONE <https://www.dataone.org//>`_. Depending on the format of your data, it may also be possible to display them in the ATN data portal map interface. Contact the ATN DC for more information.
 
     For assistance submitting data to ATN DAC through the Research Workspace, please visit the Workspace’s `help docs <https://researchworkspace.com/help/>`_, consult the tutorials listed below, or `Contact Us <https://atn.ioos.us/help/contact-us/#contact-us>`_.
 
