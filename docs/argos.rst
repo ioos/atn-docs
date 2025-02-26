@@ -25,8 +25,8 @@ The following criteria were used to determine eligibility for Argos fees coverag
 #. Agree to publicly release these data via the ATN data portal and a long-term repository or permanent archive after data are no longer protected or under embargo, as specified within the ATN’s data management `policy guidance <https://cdn.ioos.noaa.gov/media/2022/03/ATN-DAC-Data-Management-Policy-Guidance_v.202201.pdf>`_ document.
 
 
-Program Coverage Policies
-----------------------------------------
+**Program Coverage Policies**
+
 #.	Argos Fees Program applications were limited to 50 platforms per program per year, effective April 1, 2023, for new program applicants. For existing program members, the 50 platform cap became effective on October 1, 2023. After that date, additional platform IDs above the cap reverted back to the principal investigators original Argos program.
 
 #.	We request that only platforms intended to be deployed within 6 months be registered under new or existing ATN programs.
@@ -37,9 +37,7 @@ Program Coverage Policies
 
 Failure to comply with the above list of eligibility requirements and policies may result in the removal of the researcher, program, or platform from the Argos Fees Program and the reversion of costs to the principal investigator.
 
-
-Program Transition
----------------------------------
+**Program Transition**
 
 Although the Program has greatly helped advance the objectives of ATN and the broader telemetry research community, long-term funding was no longer available to sustain activities. Therefore, starting November 1, 2024, ATN was unable to accept new applications for the Program or cover any fees from new tag IDs. ATN will continue to cover Argos fees for existing Program participants with actively transmitting tags that are in service beyond November 1 and remain committed to doing so as long as funds remain available.
 
