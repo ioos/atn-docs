@@ -50,7 +50,7 @@ his Program has been a huge success in bringing immense value to our researchers
 
 If you have any questions about the ATN Argos Fees Program, please contact us:
 
-Connie Kot, ATN Coordinator, connie.kot@noaa.gov
+U.S. Integrated Ocean Observing System office, data.ioos@noaa.gov
 
 Dr. Megan McKinzie, ATN Data Manager, mmckinzie@mbari.org
 
