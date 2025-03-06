@@ -3,11 +3,8 @@
 Contact Us
 ==========
 
-For general questions and comments, please email the ATN at atn@ioos.us and someone will get back to you.
-
-For assistance accessing the `Research Workspace <https://researchworkspace.com/>`_ and submitting or downloading data to and from the IOOS ATN, please email the ATN DMAC group at atndata@ioos.us.
+For general questions and comments, please email the ATN at ATN.NC@noaa.gov. For assistance accessing the ATN Registration Application, `Research Workspace <https://researchworkspace.com/intro/>`_, and ATN data portal, or with submitting your metadata and data to the  ATN DAC, please email the ATN Data Coordinator, Dr. Megan McKinzie at mmckinzie@mbari.org.
 
 We look forward to hearing from you!
-
 
 
