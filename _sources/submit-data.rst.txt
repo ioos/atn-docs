@@ -7,7 +7,7 @@ Any researcher from the animal telemetry community is welcome to submit data to 
 
 Additionally, submitting data to the ATN DAC may help you meet funding obligations for public data sharing, including federal Public Access to Research Results (PARR) requirements.
 
-For help following the steps below, please contact Dr. Megan McKinzie, the ATN Data Coordinator (DC), at mmckinzie@mbari.org.
+For help following the steps below, please contact Dr. Megan McKinzie, the ATN Data Coordinator (DC), at mmckinzie@mbari.org and the IOOS Office at data.ioos@noaa.gov.
 
 Data Submitted through a Satellite Tag Vendor
 ---------------------------------------------
