@@ -62,5 +62,7 @@ Research Workspace Tutorials
 #. `Working with Data Files <https://researchworkspace.com/help/WorkingWithFilesTutorial.html>`_
 #. `Using the Metadata Editor <https://researchworkspace.com/help/MetadataEditorTutorial.html>`_
 
+Data Submitted to an OTN Regional Node
+---------------------------------------------
 
-
+If you are looking to submit acoustic telemetry data, please connect with the appropriate `Ocean Tracking Network <https://oceantrackingnetwork.org/>`_ (OTN) U.S. regional node. Please see the IOOS `Marine Life Data Network <https://ioos.github.io/marine_life_data_network/>`_ recommendations for a list of acoustic telemetry regional nodes that facilitate data sharing with ATN and OTN.
