@@ -65,4 +65,30 @@ Research Workspace Tutorials
 Data Submitted to an OTN Regional Node
 ---------------------------------------------
 
-If you are looking to submit acoustic telemetry data, please connect with the appropriate `Ocean Tracking Network <https://oceantrackingnetwork.org/>`_ (OTN) U.S. regional node. Please see the IOOS `Marine Life Data Network <https://ioos.github.io/marine_life_data_network/>`_ recommendations for a list of acoustic telemetry regional nodes that facilitate data sharing with ATN and OTN.
+If you are looking to submit acoustic telemetry data, please connect with the appropriate `Ocean Tracking Network <https://oceantrackingnetwork.org/>`_ (OTN) U.S. regional node. See the table below for a list for a list of acoustic telemetry regional nodes that facilitate data sharing with ATN and OTN. More information on how to share acoustic telemetry data can be found on the IOOS `Marine Life Data Network website <https://ioos.github.io/marine_life_data_network/>`_.
+
+.. list-table::
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Node
+     - Region
+     - Website
+   * - FACT
+     - Southeast U.S.
+     - https://www.secoora.org/fact/
+   * - ACT
+     - Mid-Atlantic to Northeast U.S.
+     - https://www.theactnetwork.com/
+   * - iTAG
+     - Gulf of Mexico
+     - https://myfwc.com/research/saltwater/telemetry/itag/
+   * - PIRAT
+     - Pacific Islands
+     - https://www.piratnetwork.org/
+   * - GLATOS
+     - Great Lakes
+     - https://glators.glos.us/
+   * - N-PAcT
+     - U.S. West Coast & Alaska
+     - https://www.npact.aoos.org/
