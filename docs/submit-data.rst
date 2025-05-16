@@ -68,7 +68,7 @@ Data Submitted to an OTN Regional Node
 If you are looking to submit acoustic telemetry data, please connect with the appropriate `Ocean Tracking Network <https://oceantrackingnetwork.org/>`_ (OTN) U.S. regional node. See the table below for a list for a list of acoustic telemetry regional nodes that can facilitate data sharing with ATN and OTN. More information on how to share acoustic telemetry data can be found on the IOOS `Marine Life Data Network website <https://ioos.github.io/marine_life_data_network/>`_.
 
 .. list-table::
-   :widths: 25 25 50
+   :widths: 15 30 50
    :header-rows: 1
 
    * - Node
