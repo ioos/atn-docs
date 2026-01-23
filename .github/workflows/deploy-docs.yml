@@ -1,5 +1,8 @@
 name: Documentation
 
+# no permissions by default
+permissions: {}
+
 on:
   pull_request:
   push:
@@ -14,6 +17,8 @@ on:
 jobs:
   build-docs:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     defaults:
       run:
         shell: bash -l {0}
@@ -23,6 +28,7 @@ jobs:
       uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd  # v6.0.2
       with:
         fetch-depth: 0
+        persist-credentials: false
 
     - name: Setup Micromamba
       uses: mamba-org/setup-micromamba@add3a49764cedee8ee24e82dfde87f5bc2914462  # v2.0.7
